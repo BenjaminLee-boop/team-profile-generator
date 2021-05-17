@@ -13,3 +13,6 @@ Pooling employee info quickly to a webpage through inquirer output.
 
 ## Reasoning
 Outputting employee info with links to relevant sites.
+
+
+![ScreenGrab](https://i.imgur.com/Ym9owhr.png)
